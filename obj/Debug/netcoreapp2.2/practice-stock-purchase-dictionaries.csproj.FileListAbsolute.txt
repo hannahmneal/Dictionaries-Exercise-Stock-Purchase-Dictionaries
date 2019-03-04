@@ -1,0 +1,11 @@
+/Users/hannahneal/workspace/C-sharp/ch5-dictionaries/practice-stock-purchase-dictionaries/bin/Debug/netcoreapp2.2/practice-stock-purchase-dictionaries.deps.json
+/Users/hannahneal/workspace/C-sharp/ch5-dictionaries/practice-stock-purchase-dictionaries/bin/Debug/netcoreapp2.2/practice-stock-purchase-dictionaries.runtimeconfig.json
+/Users/hannahneal/workspace/C-sharp/ch5-dictionaries/practice-stock-purchase-dictionaries/bin/Debug/netcoreapp2.2/practice-stock-purchase-dictionaries.runtimeconfig.dev.json
+/Users/hannahneal/workspace/C-sharp/ch5-dictionaries/practice-stock-purchase-dictionaries/bin/Debug/netcoreapp2.2/practice-stock-purchase-dictionaries.dll
+/Users/hannahneal/workspace/C-sharp/ch5-dictionaries/practice-stock-purchase-dictionaries/bin/Debug/netcoreapp2.2/practice-stock-purchase-dictionaries.pdb
+/Users/hannahneal/workspace/C-sharp/ch5-dictionaries/practice-stock-purchase-dictionaries/obj/Debug/netcoreapp2.2/practice-stock-purchase-dictionaries.csprojAssemblyReference.cache
+/Users/hannahneal/workspace/C-sharp/ch5-dictionaries/practice-stock-purchase-dictionaries/obj/Debug/netcoreapp2.2/practice-stock-purchase-dictionaries.csproj.CoreCompileInputs.cache
+/Users/hannahneal/workspace/C-sharp/ch5-dictionaries/practice-stock-purchase-dictionaries/obj/Debug/netcoreapp2.2/practice-stock-purchase-dictionaries.AssemblyInfoInputs.cache
+/Users/hannahneal/workspace/C-sharp/ch5-dictionaries/practice-stock-purchase-dictionaries/obj/Debug/netcoreapp2.2/practice-stock-purchase-dictionaries.AssemblyInfo.cs
+/Users/hannahneal/workspace/C-sharp/ch5-dictionaries/practice-stock-purchase-dictionaries/obj/Debug/netcoreapp2.2/practice-stock-purchase-dictionaries.dll
+/Users/hannahneal/workspace/C-sharp/ch5-dictionaries/practice-stock-purchase-dictionaries/obj/Debug/netcoreapp2.2/practice-stock-purchase-dictionaries.pdb
