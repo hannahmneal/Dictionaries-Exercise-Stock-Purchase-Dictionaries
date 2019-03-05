@@ -74,16 +74,17 @@ namespace practice_stock_purchase_dictionaries
                         to get the value of "General Electric"?
                     */
                     string stockCompanyFullName = stockCompanies[stock.Key];
+                    // this is the same as stockCompanies["GM"], where "GM" is the value of stock on purchase; it's looking for a match to stock in purchase in stockCompanies.
 
                     if (stockReport.ContainsKey(stockCompanyFullName))
-                    {    // ???????????
+                    //ContainsKey is FINDING a Key; it has a built-in .Find()
+                    {
 
                         (stockReport[stockCompanies[stock.Key]]) += (stock.Value);
 
                     } else {
                         stockReport.Add(stockCompanies[stock.Key], stock.Value);
                     }
-
                 }
                 foreach (KeyValuePair<string, double> item in stockReport)
                 {
